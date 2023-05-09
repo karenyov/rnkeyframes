@@ -4,6 +4,10 @@ Animação de Keyframes no React Native - [Rocketseat](https://www.youtube.com/w
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
 
+## Bibliotecas
+
+:white_check_mark:	[Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+
 ## Rodando
 > Entrar na pasta do projeto e executar: 
 
